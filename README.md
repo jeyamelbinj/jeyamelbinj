@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Jeya Melbin J 👋
+Engineering Graduate | Computer Science And Engineering Student
+I'm passionate about building AI applications, specifically working with Large Language Models (LLMs) and RAG pipelines using Python.
 
-<!--
-**jeyamelbinj/jeyamelbinj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img width="1248" height="832" alt="image" src="https://github.com/user-attachments/assets/2f1b1f43-2b29-4d8c-9310-e25cdab027b1" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🧑‍💻 About Me
+📊 Data Analyst
+🎓 Currently studying AI Engineering
+🧠 Focused on LLMs and Retrieval-Augmented Generation (RAG)
+🐍 Building intelligent apps with Python, Pandas, and SQL
+
+🛠️ Tech Stack
+Python SQL Pandas NumPy MySQL LLMs RAG
+
+📫 Connect With Me
+LinkedIn:
+Email: melbinjizz@gmail.com
+
+⭐ Thanks for visiting my profile!
