@@ -3,7 +3,7 @@ Engineering Graduate | Computer Science And Engineering Student
 
 I'm passionate about building AI applications, specifically working with Large Language Models (LLMs) and RAG pipelines using Python.
 
-<img width="600" height="400" alt="A_cute_cat" src="https://github.com/user-attachments/assets/9507af8a-cae0-4ac9-b554-ddd779c44fb5" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/3a64ec07-7aa1-48cf-8eeb-0860d3d2c44d" />
 
 
 
