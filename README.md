@@ -2,8 +2,8 @@ Hi, I'm Jeya Melbin J 👋
 Engineering Graduate | Computer Science And Engineering Student
 I'm passionate about building AI applications, specifically working with Large Language Models (LLMs) and RAG pipelines using Python.
 
+<img width="600" height="400" alt="A_cute_cat" src="https://github.com/user-attachments/assets/9507af8a-cae0-4ac9-b554-ddd779c44fb5" />
 
-<img width="600" height="400" alt="A_cute_minimalist_cartoon_white_cat_sitting_down_simple_soli" src="https://github.com/user-attachments/assets/9e062fd1-bd30-4302-b415-503c5aa43491" />
 
 
 
