@@ -6,24 +6,29 @@ I'm passionate about building AI applications, specifically working with Large L
 
 <img width="384" height="230" alt="cat_sticker_2" src="https://github.com/user-attachments/assets/678c764d-1190-4397-a6ec-1ba82e7db5dd" />
 
-
-🧑‍💻 About Me
+🧑‍💻 About Me :
 
 📊 Data Analyst
+
 🎓 Currently studying AI Engineering
+
 🧠 Focused on LLMs and Retrieval-Augmented Generation (RAG)
+
 🐍 Building intelligent apps with Python, Pandas, and SQL
 
 
-🛠️ Tech Stack
+🛠️ Tech Stack :
 
 Python | SQL | Pandas | NumPy | MySQL | LLMs | RAG
 
-📫 Connect With Me
+📫 Connect With Me :
 
-🔗 LinkedIn: www.linkedin.com/in/jeyamelbinjeyakumar
-🔗 GitHub: https://github.com/jeyamelbin
-🔗 Portfolio: https://jeyamelbinj.github.io/melbin-portfolio/
-🔗 Email: melbinjizz@gmail.com
+🔗 LinkedIn : www.linkedin.com/in/jeyamelbinjeyakumar
+
+🔗 GitHub : https://github.com/jeyamelbin
+
+🔗 Portfolio : https://jeyamelbinj.github.io/melbin-portfolio/
+
+🔗 Email : melbinjizz@gmail.com
 
 ⭐ Thanks for visiting my profile!
