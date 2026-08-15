@@ -10,26 +10,20 @@ I'm passionate about building AI applications, specifically working with Large L
 🧑‍💻 About Me
 
 📊 Data Analyst
-
 🎓 Currently studying AI Engineering
-
 🧠 Focused on LLMs and Retrieval-Augmented Generation (RAG)
-
 🐍 Building intelligent apps with Python, Pandas, and SQL
 
 
 🛠️ Tech Stack
 
-Python SQL Pandas NumPy MySQL LLMs RAG
+Python | SQL | Pandas | NumPy | MySQL | LLMs | RAG
 
 📫 Connect With Me
 
 🔗 LinkedIn: www.linkedin.com/in/jeyamelbinjeyakumar
-
 🔗 GitHub: https://github.com/jeyamelbin
-
 🔗 Portfolio: https://jeyamelbinj.github.io/melbin-portfolio/
-
 🔗 Email: melbinjizz@gmail.com
 
 ⭐ Thanks for visiting my profile!
