@@ -25,8 +25,6 @@ Python | SQL | Pandas | NumPy | MySQL | LLMs | RAG
 
 🔗 LinkedIn : www.linkedin.com/in/jeyamelbinjeyakumar
 
-🔗 GitHub : https://github.com/jeyamelbin
-
 🔗 Portfolio : https://jeyamelbinj.github.io/melbin-portfolio/
 
 🔗 Email : melbinjizz@gmail.com
